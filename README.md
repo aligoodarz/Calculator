@@ -1,0 +1,5 @@
+- This quick project was done to further reienforce the ideas that I learned in QT
+- It is a simple calculator that can do the following operations:
+-- Adding, Substracting, Division, Multiplication.
+- The overal layour of the program looks as follows:
+- ![image](https://user-images.githubusercontent.com/72888089/147834556-4f3b9881-dcdf-4222-b895-b192b5a64406.png)

@@ -6,7 +6,7 @@
 #include <QDebug>
 
 
-//This function reads the Css file
+//This is a declaration for the css file reader
 QString readTextFile (QString path);
 
 

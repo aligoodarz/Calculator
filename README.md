@@ -3,3 +3,5 @@
 -- Adding, Substracting, Division, Multiplication.
 - The overal layour of the program looks as follows:
 - ![image](https://user-images.githubusercontent.com/72888089/147834556-4f3b9881-dcdf-4222-b895-b192b5a64406.png)
+- This project uses concepts such as:
+-- OOP principles, state machines, signals and slots in Qt, css styling of Qt applications and much more.
